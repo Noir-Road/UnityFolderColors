@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Unity Folder Colors",
   "description": "A package to customize folder colors and icons in Unity's Project panel.",
-  "unity": "6",
+  "unity": "2020.3",
   "author": {
     "name": "Noir Road",
     "url": "https://github.com/Noir-Road"
